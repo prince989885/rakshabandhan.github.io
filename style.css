@@ -22,4 +22,7 @@ div.gallery {
 div.desc {
   padding: 15px;
   text-align: center;
+  color:red;
+   text-shadow:1px 1px;
+   text-decoration:bold;
 }
